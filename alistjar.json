@@ -1,0 +1,10 @@
+{
+  "drives": [
+    {
+      "name": "小雅网盘4K",
+      "search": true,
+      "searchable": true,
+      "server": "http://movie.wangzm.tk"
+    }
+  ]
+}
