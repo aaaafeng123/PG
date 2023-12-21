@@ -2,11 +2,13 @@
 複製lib/tokentemplate.json成爲lib/tokenm.json，并填寫必要的内容
 
 特別警告：據傳阿里要求使用者不得使用多綫程加速方式使用阿里云盤資源，若并發鏈接數超過10有可能導致被限制訪問或封禁帳號的處理，所以下方綫程限制設置超過10所需承擔的風險請使用者自行斟酌。
+特别警告2：迅雷云盘限制极为严格，不要尝试单token多用户异地使用，或多线程使用，随时可能封号。
 
 可以透过配置中的“網盤及彈幕配置”的視頻源來實現快捷方便的獲取32位token及opentoken的功能。在“網盤及彈幕配置”中掃過任何一個OpenToken后，會自動激活“轉存原畫”功能
 
 提示：如果遇到極速GO原畫反復快速報錯，不一定是被封號，可嘗試殺掉播放器重啓，或重啓整個播放設備解決。
 提示2：如果遇到“轉存原畫”速度被限制在2M左右，那麽請嘗試在阿里云盤APP裏退出登錄，然後重新登錄，然後刪除播放設備SD卡的TV目錄，在播放器上重新掃碼登錄。
+
 
 tokenm.json格式説明：
 {
@@ -35,7 +37,7 @@ tokenm.json格式説明：
 "quark_danmu":true,//是否全局開啓夸克網盤的所有csp的彈幕支持, 聚合類CSP仍需單獨設置，例如Wogg, Wobg
 "quark_cookie":"這裏填寫通過https://pan.quark.cn網站獲取到的cookie，會很長，全數填入即可。"
 "uc_cookie":"這裏填寫通過https://drive.uc.cn網站登錄獲取的cookie",
-"thunder_username":"這裏填入用戶名或手機號，如果是手機號，記得是類似'+86 139123457'這樣的格式",
+"thunder_username":"這裏填入用戶名或手機號，如果是手機號，記得是類似'+86 139123457'這樣的格式，+86后有空格才對",
 "thunder_password":"密碼",
 "thunder_captchatoken":"首次使用迅雷網盤時，需要使用app彈出的登陸地址去接碼登錄，並獲取captchaToken，具體方法參考alist網站的文檔:https://alist.nn.ci/zh/guide/drivers/thunder.html"
 }
