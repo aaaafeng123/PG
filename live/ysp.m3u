@@ -1,67 +1,67 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV4K超高清
+#EXTINF:-1,tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV4K超高清.png" group-title="央视",CCTV4K超高清
 video://https://www.yangshipin.cn/#/tv/home?pid=600002264
-#EXTINF:-1 group-title="央视频道",CCTV1綜合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视"CCTV1綜合
 video://https://www.yangshipin.cn/#/tv/home?pid=600001859
-#EXTINF:-1 group-title="央视频道",CCTV2財經
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视"CCTV2財經
 video://https://www.yangshipin.cn/#/tv/home?pid=600001800
-#EXTINF:-1 group-title="央视频道",CCTV4中文國際
+#EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4中文国际.png" group-title="央视"CCTV4中文國際
 video://https://www.yangshipin.cn/#/tv/home?pid=600001814
-#EXTINF:-1 group-title="央视频道",CCTV7國防軍事
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视"CCTV7國防軍事
 video://https://www.yangshipin.cn/#/tv/home?pid=600004092
-#EXTINF:-1 group-title="央视频道",CCTV9紀錄
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视"CCTV9紀錄
 video://https://www.yangshipin.cn/#/tv/home?pid=600004078
-#EXTINF:-1 group-title="央视频道",CCTV10科教
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10科教
 video://https://www.yangshipin.cn/#/tv/home?pid=600001805
-#EXTINF:-1 group-title="央视频道",CCTV11戲曲
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11戲曲
 video://https://www.yangshipin.cn/#/tv/home?pid=600001806
-#EXTINF:-1 group-title="央视频道",CCTV12社會與法
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12社會與法
 video://https://www.yangshipin.cn/#/tv/home?pid=600001807
-#EXTINF:-1 group-title="央视频道",CCTV13新聞
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13新聞
 video://https://www.yangshipin.cn/#/tv/home?pid=600001811
-#EXTINF:-1 group-title="央视频道",CCTV14少兒
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14少兒
 video://https://www.yangshipin.cn/#/tv/home?pid=600001809
-#EXTINF:-1 group-title="央视频道",CCTV15音樂
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15音樂
 video://https://www.yangshipin.cn/#/tv/home?pid=600001815
-#EXTINF:-1 group-title="央视频道",CCTV17農業農村
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17農業農村
 video://https://www.yangshipin.cn/#/tv/home?pid=600001810
-#EXTINF:-1 group-title="卫视频道",江蘇衛視
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江蘇衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002521
-#EXTINF:-1 group-title="卫视频道",浙江衛視
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002520
-#EXTINF:-1 group-title="卫视频道",湖南衛視
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002475
-#EXTINF:-1 group-title="卫视频道",北京衛視
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002309
-#EXTINF:-1 group-title="卫视频道",東方衛視
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",東方衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002483
-#EXTINF:-1 group-title="卫视频道",山東衛視
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山東衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002513
-#EXTINF:-1 group-title="卫视频道",四川衛視
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002516
-#EXTINF:-1 group-title="卫视频道",安徽衛視
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002532
-#EXTINF:-1 group-title="卫视频道",江西衛視
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002503
-#EXTINF:-1 group-title="卫视频道",東南衛視
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",東南衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002484
-#EXTINF:-1 group-title="卫视频道",河北衛視
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002493
-#EXTINF:-1 group-title="卫视频道",河南衛視
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002525
-#EXTINF:-1 group-title="卫视频道",重慶衛視
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重慶衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002531
-#EXTINF:-1 group-title="卫视频道",海南衛視
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002506
-#EXTINF:-1 group-title="卫视频道",深圳衛視
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002481
-#EXTINF:-1 group-title="卫视频道",湖北衛視
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002508
-#EXTINF:-1 group-title="卫视频道",貴州衛視
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",貴州衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002490
-#EXTINF:-1 group-title="卫视频道",廣西衛視
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",廣西衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002509
-#EXTINF:-1 group-title="卫视频道",廣東衛視
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",廣東衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002485
-#EXTINF:-1 group-title="卫视频道",遼寧衛視
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",遼寧衛視
 video://https://www.yangshipin.cn/#/tv/home?pid=600002505
