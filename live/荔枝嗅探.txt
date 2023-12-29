@@ -1,6 +1,5 @@
 广东地方,#genre#
 parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 广东卫视,https://m.gdtv.cn/tvChannelDetail/43
 广东珠江,https://m.gdtv.cn/tvChannelDetail/44
 广东新闻,https://m.gdtv.cn/tvChannelDetail/45
