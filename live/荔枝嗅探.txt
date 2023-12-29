@@ -1,6 +1,7 @@
 荔枝,#genre#
 parse=1
-Referer: https://www.gdtv.cn/
+user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+Referer:https://www.gdtv.cn/
 广东卫视,https://m.gdtv.cn/tvChannelDetail/43
 广东珠江,https://m.gdtv.cn/tvChannelDetail/44
 广东新闻,https://m.gdtv.cn/tvChannelDetail/45
