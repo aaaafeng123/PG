@@ -54,7 +54,7 @@ def getlist(w,shareid, fileid,morepage):
             if linearr[2] == "folder":
                 getlist(w,shareid,fileid,False)
 
-    if len(lines)>=100:
+    if len(lines)>0:
         getlist(w,shareid,fileid,True)
 
 def main():
