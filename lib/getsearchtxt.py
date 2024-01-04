@@ -59,10 +59,10 @@ def getlist(w,shareid, fileid,morepage):
 
 def main():
     try:
-        f = gzip.open(sys.argv[1]+".txt.gz",mode="rt",encoding="utf-8")
+        f = gzip.open(sys.argv[1]+".raw.gz",mode="rt",encoding="utf-8")
         if f is not None:
-            print(f"found gz txt file:{sys.argv[1]}.txt.gz, extract it",file=sys.stderr)
-            with(open(sys.argv[1]+".txt","w",encoding="utf-8")) as w:
+            print(f"found gz raw file:{sys.argv[1]}.raw.gz, extract it",file=sys.stderr)
+            with(open(sys.argv[1]+".raw","w",encoding="utf-8")) as w:
                 while(True):
                     lines = f.readlines()
                     if len(lines)<=0:
@@ -74,11 +74,11 @@ def main():
     except:
         traceback.print_exc()
         try:
-            f = open(sys.argv[1]+".txt","r",encoding="utf-8")
+            f = open(sys.argv[1]+".raw","r",encoding="utf-8")
         except:
             f = None
     if f is not None:
-        print("found old txt file")
+        print("found old raw file")
         while True:
             lines = f.readlines()
             if len(lines)<=0:
@@ -95,10 +95,10 @@ def main():
                     fileid = arr[1]
                     sharedict.add(shareid+"/"+fileid)
         f.close()
-        print(f"old txt file record:{len(sharedict)}")
+        print(f"old raw file record:{len(sharedict)}")
     else:
-        print("no old txt file")
-    with(open(sys.argv[1]+".txt","a+",encoding="utf-8")) as w:
+        print("no old raw file")
+    with(open(sys.argv[1]+".raw","a+",encoding="utf-8")) as w:
         with(open(sys.argv[1],"r",encoding="utf-8")) as f:
             j = json.load(f)
             for c in j:
