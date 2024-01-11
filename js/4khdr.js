@@ -11,7 +11,7 @@ var rule = {
 	quickSearch:1,
 	filterable:0,
 	headers:{
-		'User-Agent': 'PC_UA',
+		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
          	'Cookie':'hvLw_2132_saltkey=jN25dJy8; hvLw_2132_lastvisit=1701764113; hvLw_2132_sendmail=1; Hm_lvt_786cb39ec50724f53df428d52b8b7497=1701767714; hvLw_2132_seccodecS=2828.bb4e836a63225c75dd; hvLw_2132_ulastactivity=1701767757%7C0; hvLw_2132_auth=ed8d6rEOVvZReveC6NcfhwTeamrnx4otax4p7nvLZrmPu1083oWXi6%2F%2F5487vRtfsv7m9BBkvxmKtp%2BNgQ0%2BcxXt8mQ; hvLw_2132_lastcheckfeed=105729%7C1701767757; hvLw_2132_lip=113.81.173.134%2C1701767757; hvLw_2132_sid=0; hvLw_2132_home_diymode=1; hvLw_2132_st_t=105729%7C1701767784%7Cb06327bf537e494ac4c389278f7a233a; hvLw_2132_forum_lastvisit=D_2_1701767784; Hm_lpvt_786cb39ec50724f53df428d52b8b7497=1701767784; hvLw_2132_lastact=1701767784%09misc.php%09patch',
 	},
 	timeout:5000,
