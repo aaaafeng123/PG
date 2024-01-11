@@ -46,5 +46,6 @@ tokenm.json格式説明：
 "pikpak_flags":"4k|auto",
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
-"pikpak_proxy":"用於科學上網連接PikPak網盤的代理服務器地址"
+"pikpak_proxy":"用於科學上網連接PikPak網盤的代理服務器地址",
+"pikpak_proxy_onlyapi":false
 }
