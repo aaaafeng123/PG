@@ -1,0 +1,77 @@
+[
+  {
+    "name": "正式版",
+    "list": [
+      {
+        "name": "电视-java",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "电视-py",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手机-java",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手机-py",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "内测版",
+    "list": [
+      {
+        "name": "电视-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "电视-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手机-java",
+        "url": "https://my.t4tv.hz.cz/apk/dev/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手机-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "直播接口",
+    "list": [
+        {
+        "name":"福利接口",
+        "url": "https://raw.fgit.cf/ajin0913/TV/main/zadq.zip",
+        "icon": "https://gitee.com/ajin0913/jin/raw/master/json/2.jpeg",
+        "copy": "file://Download/zadq.txt"
+       }, 
+       {
+        "name":"福利接口2",
+        "url": "https://raw.fgit.cf/ajin0913/TV/main/zadq1.zip",
+        "icon": "https://gitee.com/ajin0913/jin/raw/master/json/3.jpeg",
+        "copy": "file://Download/zadq1.txt"
+       }    
+    ]
+  }
+]
