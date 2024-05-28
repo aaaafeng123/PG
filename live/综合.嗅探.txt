@@ -52,7 +52,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513
 荔枝网,#genre#
 parse=1
-player=2
+Referer=https://www.gdtv.cn/
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,https://www.gdtv.cn/tvChannelDetail/44
