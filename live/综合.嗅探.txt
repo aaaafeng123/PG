@@ -1,6 +1,6 @@
 央视频CCTV,#genre#
 parse=1
-player=2
+Referer=https://www.yangshipin.cn/
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 CCTV1综合,https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2财经,https://www.yangshipin.cn/tv/home?pid=600001800
@@ -27,7 +27,7 @@ CGTN阿拉伯语频道,https://www.yangshipin.cn/tv/home?pid=600084782
 CGTN西班牙语频道,https://www.yangshipin.cn/tv/home?pid=600084744
 央视频地方,#genre#
 parse=1
-player=2
+Referer=https://www.yangshipin.cn/
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
 江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
