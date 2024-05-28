@@ -1,7 +1,7 @@
 央视频CCTV,#genre#
 parse=1
 Referer=https://www.yangshipin.cn/
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+ua=okhttp/4.13.0
 CCTV1综合,https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2财经,https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3綜藝,http://tv.haoqu99.com/1/cctv3.html
