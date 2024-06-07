@@ -48,8 +48,8 @@ GB News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/8WX6YL9JnLw
 信大電視台,https://congcongvkt.cn/live?url=https://www.youtube.com/live/ciwFpYofb28
 中视新闻台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/TCnaIE_SAtM
 中视亚洲台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/s2waUruqze4
-中视经典综艺,https://youtube.aaaafeng.us.kg/live?url=https://www.youtube.com/live/ADDSmXoPDY8
-凤凰卫视资讯台,https://youtube.aaaafeng.us.kg/live?url=https://www.youtube.com/live/HFib76ySpbU
+中视经典综艺,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ADDSmXoPDY8
+凤凰卫视资讯台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/HFib76ySpbU
 凤凰卫视资讯台1,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
 DW德國之聲,https://utv.stz9.eu.org/live?url=https://youtu.be/-PV1BoxXuP8
 DW德國之聲2,https://utv.stz9.eu.org/live?url=https://youtu.be/tZT2MCYu6Zw
