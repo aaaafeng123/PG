@@ -14,150 +14,135 @@ TVBS NEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/m_dhMSvUC
 TVBS新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/2mCSYvcfhtc
 中天新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/oIgbl7t0S_w
 中天新聞2台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/WPfPjbOLNfE
-中天亞洲,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/PYtGQvNmadg
 民视新闻台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ylYJSBUgaMA
 东森新闻51频道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/LuQ4S-i5zoE
 东森财经新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/WHEPzbFA3hw
 東森購物2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/Z50JFuNgvB0
 東森購物1,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ViJ3XiN6Q3M
-豬哥會社,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/htGDPsz2BYI
 東森購物3,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/_Vlzn9qAHD4
 MOMO購物1,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/_pZQ1Lk0xMA
 MOMO購物2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/xbNWkUyxQGM
-國會頻道１,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/4HysYHJ6GkY
-國會頻道2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/RAP4h3q6_Sg
+國會頻道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/4HysYHJ6GkY
 台灣地震監視,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/Owke6Quk7T0
 三立live新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/oZdzzvxTfUY
 三立INEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/CKjSm5ZeehE
-三立2,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=xIm1IFBv_84
 三立新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/FoBfXvlOR6I
-公共电视13频道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/C6gYqSHLRw4
 mnews镜新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/5n0y6b0Q25o
 公视新闻网,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/quwqlazU-c8
-公视台语台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/6KlRR_DGhmI
 华视综艺频道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/IfKO17h4pVE
 華視戲劇頻道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/WFXI3igmwDk
 华视综艺频道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/IfKO17h4pVE
 CTS华视新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/wM0g8EoUZ_E
 大愛一臺,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/MIqUplvSRWA
-大爱二台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/OKvWtVoDR8I
 大愛二臺,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/DTNkEm6jaqQ
-TaiwanPlus,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/dZp87qnWelE
 Euronews English,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/pykpO5kQJ98
 GB News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/8WX6YL9JnLw
-信大電視台,https://congcongvkt.cn/live?url=https://www.youtube.com/live/ciwFpYofb28
+信大電視台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ciwFpYofb28
 中视新闻台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/TCnaIE_SAtM
 中视亚洲台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/s2waUruqze4
 中视经典综艺,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ADDSmXoPDY8
 凤凰卫视资讯台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/HFib76ySpbU
-凤凰卫视资讯台1,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
-DW德國之聲,https://utv.stz9.eu.org/live?url=https://youtu.be/-PV1BoxXuP8
-DW德國之聲2,https://utv.stz9.eu.org/live?url=https://youtu.be/tZT2MCYu6Zw
+凤凰卫视资讯台1,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
+DW德國之聲2,https://ytb.zapi.us.kg/live?url=https://youtu.be/tZT2MCYu6Zw
 
-TRTWORLD,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=5VF4aor94gw
+TRTWORLD,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=5VF4aor94gw
 
-Al Jazeera,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=gCNeDWCI0vo
+Al Jazeera,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-Bloomberg Quicktake,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=DxmDPrfinXY
+Bloomberg Quicktake,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=DxmDPrfinXY
 
-Euronews English,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=pykpO5kQJ98
+Euronews English,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=pykpO5kQJ98
 
-United Nations,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=wfAa1GiNdgM
+United Nations,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=wfAa1GiNdgM
 
-Channels,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=dfB0qmJo1eM
+Channels,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=dfB0qmJo1eM
 
-TaiwanPlus,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=dZp87qnWelE
+NASA TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/21X5lGlDOfg
 
-NASA TV,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/21X5lGlDOfg
+NASA Live,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/nA9UZF-SZoQ
 
-NASA Live,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/nA9UZF-SZoQ
+動物世界,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=vQP8AwAFzI8
 
-動物世界,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=vQP8AwAFzI8
+Leigha Marina,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=qQkDk7UiwrA
 
-Leigha Marina,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=qQkDk7UiwrA
+Disney Junior,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=Dkkp4KfdGPY
 
-桃九郎Z,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=gj6y5e1BCMA
+Hits Radio,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=HQtFR3mhzOY
 
-Disney Junior,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=Dkkp4KfdGPY
+Relaxing Jazz Piano,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=Dx5qFachd3A
 
-Hits Radio,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=HQtFR3mhzOY
+輕鬆音樂,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=RG6HmfEnXyM
 
-Relaxing Jazz Piano,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=Dx5qFachd3A
+One World Radio,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=wBgSH-CGPzg
 
-輕鬆音樂,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=RG6HmfEnXyM
+8FM,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=o1ipHJUfFTM
 
-One World Radio,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=wBgSH-CGPzg
+Lofi Hip Hop,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=jfKfPfyJRdk
 
-8FM,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=o1ipHJUfFTM
+自然の音,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=6IRjWIqHwAQ
 
-Lofi Hip Hop,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=jfKfPfyJRdk
+Coffee Jazz,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=fEvM-OUbaKs
 
-自然の音,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=6IRjWIqHwAQ
+Space Ambient,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=tNkZsRW7h2c
 
-Coffee Jazz,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=fEvM-OUbaKs
+Rolling Cam Venice,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ph1vpnYIxJk
 
-Space Ambient,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=tNkZsRW7h2c
+Baroque Live Music,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=2gO1v2GPMFk
 
-Rolling Cam Venice,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=ph1vpnYIxJk
+Good Life Radio,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=36YnV9STBqc
 
-Baroque Live Music,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=2gO1v2GPMFk
+Rainy Jazz,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=DSGyEsJ17cI
 
-Good Life Radio,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=36YnV9STBqc
+Sleeping Music,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=OuxruRBfVjo
 
-Rainy Jazz,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=DSGyEsJ17cI
+Relaxing Piano Collection,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=jIp4J62aRvY
 
-Sleeping Music,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=OuxruRBfVjo
+華藏電視,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ypmrwYeLAaQ
 
-Relaxing Piano Collection,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=jIp4J62aRvY
+SupremeMasterTV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ZzWBpGwKoaI
 
-華藏電視,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=ypmrwYeLAaQ
+鳥鳴音樂,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=TAhHaHsDTkk
 
-SupremeMasterTV,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=ZzWBpGwKoaI
+CCTV4,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=9sE12tg3CmA
 
-鳥鳴音樂,https://utv.stz9.eu.org/live?url=https://www.youtube.com/watch?v=TAhHaHsDTkk
+JapaNews24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-CCTV4,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=9sE12tg3CmA
+メ～テレNEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=-C6FE2m7kX8
 
-JapaNews24,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=coYw-eVU0Ks
+広島ニュース,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=e2pgLUmaxGs
 
-メ～テレNEWS,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=-C6FE2m7kX8
+TBS NEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ohI356mwBp8
 
-広島ニュース,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=e2pgLUmaxGs
+HTB北海道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/d8CrKBU99Hg
 
-TBS NEWS,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=ohI356mwBp8
+YTN2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=hxBTqmTT5gE
 
-HTB北海道,https://congcongvkt.cn/live?url=https://www.youtube.com/live/d8CrKBU99Hg
+YTN,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=FJfwehhzIhw
 
-YTN2,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=hxBTqmTT5gE
+THE K-POP,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=JVocS7Yftw8
 
-YTN,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=FJfwehhzIhw
+한국경제,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=NJUjU9ALj4A
 
-THE K-POP,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=JVocS7Yftw8
+매일경제TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=s9xL1DpBsfQ
 
-한국경제,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=NJUjU9ALj4A
+YTN 사이언스,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=xfFa_kcPnCY
 
-매일경제TV,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=s9xL1DpBsfQ
+Arirang TV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=CJVBX7KI5nU
 
-YTN 사이언스,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=xfFa_kcPnCY
+MTN,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/WM-F0dc9B9o
 
-Arirang TV,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=CJVBX7KI5nU
+ABC News2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/-mvUkiILTqI
 
-MTN,https://congcongvkt.cn/live?url=https://www.youtube.com/live/WM-F0dc9B9o
+FOX Weather,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/iesPl7zRbVY
 
-ABC News,https://congcongvkt.cn/live?url=https://www.youtube.com/live/G4J6iyP9d6w
+GB News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=8WX6YL9JnLw
 
-ABC News2,https://congcongvkt.cn/live?url=https://www.youtube.com/live/-mvUkiILTqI
+Euronews francais,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=NiRIbKwAejk
 
-FOX Weather,https://congcongvkt.cn/live?url=https://www.youtube.com/live/iesPl7zRbVY
+CNA24,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=XWq5kBlakcQ
 
-GB News,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=8WX6YL9JnLw
+tvOne,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=yNKvkPJl-tg
 
-Euronews français,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=NiRIbKwAejk
+IndiaTV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
 
-CNA 24,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-tvOne,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=yNKvkPJl-tg
-
-IndiaTV,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
-
-TV9 Marathi,https://congcongvkt.cn/live?url=https://www.youtube.com/watch?v=04y0H01GTg0
+TV9 Marathi,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=04y0H01GTg0
