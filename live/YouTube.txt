@@ -148,52 +148,65 @@ IndiaTV,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=Xmm3Kr5P
 TV9 Marathi,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=04y0H01GTg0
 
 YouTube1,#genre#
-澳门议事亭前地,
-https://www.youtube.com/live/ctYalRx7kY4
-澳广视慢直播,
-https://www.youtube.com/live/0WN3T5wEJyE
-纬来体育,
-https://www.youtube.com/live/G8mI7Li6QS8
-spaceflightnow,
-https://www.youtube.com/live/E1uVzfQG_Yo
-NASASpaceflight,
-https://www.youtube.com/live/2bKUUy1ali8
-KBS WORLD,
-https://www.youtube.com/live/rbX-rOe6SmA
-World Table,
-https://www.youtube.com/live/vQJW2u8tXZI
-NBC News,
-https://www.youtube.com/live/KozUMzwfasw
-Speak English,
-https://www.youtube.com/live/rKn4EQ3-Ns0
-ISS Live,
-https://www.youtube.com/live/du6117g9zX8
-NHK WORLD-JAPAN,
-https://www.youtube.com/live/f0lYkdA-Gtw
-The Loop,
-https://www.youtube.com/live/X-An6LfFQAs
-China Zone 剧乐部,
-https://www.youtube.com/live/_MkPay9pbE0
-Lofi Girl,
-https://www.youtube.com/live/Na0w3Mz46GA
-CNBC-TV18,
-https://www.youtube.com/live/1_Ih0JYmkjI
-东京步行,
-https://www.youtube.com/live/cH7VBI4QQzA
-台视时光机,
-https://www.youtube.com/live/vwD7I2322nM
-Space Videos,
-https://www.youtube.com/live/lx2CNP7kwhI
-afarTV,
-https://www.youtube.com/live/ARcvqaQ3HhE
-ABC7,
-https://www.youtube.com/live/yBsxGdPKETI
-Makkah Live,
-https://www.youtube.com/live/moQtMet7F7w
-東京都 新宿 歌舞伎町,
-https://www.youtube.com/live/myerHe6urk8
-NASASpaceflight,
-https://www.youtube.com/live/Jm8wRjD3xVA
+spaceflightnow,https://congcongvkt.cn/live?url=https://www.youtube.com/live/E1uVzfQG_Yo
+NASASpaceflight,https://congcongvkt.cn/live?url=https://www.youtube.com/live/2bKUUy1ali8
+KBS WORLD,https://congcongvkt.cn/live?url=https://www.youtube.com/live/rbX-rOe6SmA
+World Table,https://congcongvkt.cn/live?url=https://www.youtube.com/live/vQJW2u8tXZI
+NBC News,https://congcongvkt.cn/live?url=https://www.youtube.com/live/KozUMzwfasw
+Speak English,https://congcongvkt.cn/live?url=https://www.youtube.com/live/rKn4EQ3-Ns0
+ISS Live,https://congcongvkt.cn/live?url=https://www.youtube.com/live/du6117g9zX8
+NHK WORLD-JAPAN,https://congcongvkt.cn/live?url=https://www.youtube.com/live/f0lYkdA-Gtw
+The Loop,https://congcongvkt.cn/live?url=https://www.youtube.com/live/X-An6LfFQAs
+China Zone 剧乐部,https://congcongvkt.cn/live?url=https://www.youtube.com/live/_MkPay9pbE0
+Lofi Girl,https://congcongvkt.cn/live?url=https://www.youtube.com/live/Na0w3Mz46GA
+CNBC-TV18,https://congcongvkt.cn/live?url=https://www.youtube.com/live/1_Ih0JYmkjI
+台视时光机,https://congcongvkt.cn/live?url=https://www.youtube.com/live/vwD7I2322nM
+Space Videos,https://congcongvkt.cn/live?url=https://www.youtube.com/live/lx2CNP7kwhI
+afarTV,https://congcongvkt.cn/live?url=https://www.youtube.com/live/ARcvqaQ3HhE
+ABC7,https://congcongvkt.cn/live?url=https://www.youtube.com/live/yBsxGdPKETI
+Makkah Live,https://congcongvkt.cn/live?url=https://www.youtube.com/live/moQtMet7F7w
+東京都 新宿 歌舞伎町,https://congcongvkt.cn/live?url=https://www.youtube.com/live/myerHe6urk8
+NASASpaceflight,https://congcongvkt.cn/live?url=https://www.youtube.com/live/Jm8wRjD3xVA
+
+即时影像,#genre#
+澳门议事亭前地,https://congcongvkt.cn/live?url=https://www.youtube.com/live/ctYalRx7kY4
+澳广视慢直播,https://congcongvkt.cn/live?url=https://www.youtube.com/live/0WN3T5wEJyE
+桃園國際機場附近即時影像1,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/0D6QgDOdI6c
+桃園國際機場附近即時影像2,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/68GFgzQxrXs
+上巴陵即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/nV-DKquUjFs
+慈湖水岸广场即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/pSQ0e-ZTZ5g
+石門水库即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/GUCaVR88ZFU
+大溪老街即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/XUWjAsajKXg
+角板山生態池即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/XEbo8NzMTbQ
+角板山梅園即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/-xT1bZhWLuU
+虎頭山奥爾森林學堂即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/yQSmajHyMhU
+大溪桥即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/oFJ6gCaBb_Q
+三龜戲水觀景平台即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/5YDXZ1aiR5Y
+小烏来寰宇平台即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/hcGGNRfPvjM
+小烏来天空步道即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/neaiCec1kec
+桃园虎頭山環保公園即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/tu_gsIkNt-w
+拉拉山遊客中心即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/YkIUZjVlhv4
+桃园国际机场即时影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/91PfFoqvuUk
+永安漁港即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/tD_a03trUvE
+合歡山武嶺亭即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/2lVMTs_Fj0M
+台东市即时影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/Yo64T79w6Vg
+峨眉湖即时影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/AE1wiaqDZjw
+台東池上天堂路即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/6kUEK3LVrro
+高雄蓮池潭4K即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/BnPoNatG-HE
+德基水庫即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/ZayKvJKDPWc
+碧山巖4K即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/uvwfYzwY8tg
+烘爐地即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/xxMRjVwCQ3o
+淡水漁人碼頭即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/xwAWSh35uuw
+大佳河濱公園4K即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/fP4ecxfsJos
+花蓮六十石山即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/DliL9uMtPrI
+東海岸即時影像-綠島帆船鼻,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/pLdBc8PvZko
+東海岸即時影像-三仙台,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/dQ7Sd6PGLdA
+台東金崙大橋即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/9QqBz3kNHis
+高雄旗津海水浴場即時影像,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/ka7FV0sCvxQ
+東海岸即時影像-金樽遊憩區,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/ZdqHgQwvZOw
+東海岸即時影像-長虹橋,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/JnD8Rk3o0BM
+東海岸即時影像-花蓮豐濱鄉大石鼻山,https://utv.stz9.eu.org/live?url=https://www.youtube.com/live/JkoXcXI04Qk
+东京步行,https://congcongvkt.cn/live?url=https://www.youtube.com/live/cH7VBI4QQzA
 
 https://www.youtube.com/live/0D6QgDOdI6c
 
@@ -219,7 +232,6 @@ https://www.youtube.com/live/5YDXZ1aiR5Y
 
 https://www.youtube.com/live/hcGGNRfPvjM
 
-
 https://www.youtube.com/live/neaiCec1kec
 
 https://www.youtube.com/live/tu_gsIkNt-w
@@ -229,80 +241,6 @@ https://www.youtube.com/live/YkIUZjVlhv4
 https://www.youtube.com/live/91PfFoqvuUk
 
 https://www.youtube.com/live/tD_a03trUvE
-
-桃園國際機場附近即時影像1,
-https://www.youtube.com/live/0D6QgDOdI6c
-桃園國際機場附近即時影像2,
-https://www.youtube.com/live/68GFgzQxrXs
-上巴陵即時影像,
-https://www.youtube.com/live/nV-DKquUjFs
-慈湖水岸广场即時影像,
-https://www.youtube.com/live/pSQ0e-ZTZ5g
-石門水库即時影像,
-https://www.youtube.com/live/GUCaVR88ZFU
-大溪老街即時影像,
-https://www.youtube.com/live/XUWjAsajKXg
-角板山生態池即時影像,
-https://www.youtube.com/live/XEbo8NzMTbQ
-角板山梅園即時影像,
-https://www.youtube.com/live/-xT1bZhWLuU
-虎頭山奥爾森林學堂即時影像,
-https://www.youtube.com/live/yQSmajHyMhU
-大溪桥即時影像,
-https://www.youtube.com/live/oFJ6gCaBb_Q
-三龜戲水觀景平台即時影像,
-https://www.youtube.com/live/5YDXZ1aiR5Y
-小烏来寰宇平台即時影像,
-https://www.youtube.com/live/hcGGNRfPvjM
-小烏来天空步道即時影像,
-https://www.youtube.com/live/neaiCec1kec
-桃园虎頭山環保公園即時影像,
-https://www.youtube.com/live/tu_gsIkNt-w
-拉拉山遊客中心即時影像,
-https://www.youtube.com/live/YkIUZjVlhv4
-桃园国际机场即时影像,
-https://www.youtube.com/live/91PfFoqvuUk
-永安漁港即時影像,
-https://www.youtube.com/live/tD_a03trUvE
-合歡山武嶺亭即時影像,
-https://www.youtube.com/live/2lVMTs_Fj0M
-台东市即时影像,
-https://www.youtube.com/live/Yo64T79w6Vg
-峨眉湖即时影像,
-https://www.youtube.com/live/AE1wiaqDZjw
-台東池上天堂路即時影像,
-https://www.youtube.com/live/6kUEK3LVrro
-高雄蓮池潭4K即時影像,
-https://www.youtube.com/live/BnPoNatG-HE
-德基水庫即時影像,
-https://www.youtube.com/live/ZayKvJKDPWc
-碧山巖4K即時影像,
-https://www.youtube.com/live/uvwfYzwY8tg
-烘爐地即時影像,
-https://www.youtube.com/live/xxMRjVwCQ3o
-淡水漁人碼頭即時影像,
-https://www.youtube.com/live/xwAWSh35uuw
-大佳河濱公園4K即時影像,
-https://www.youtube.com/live/fP4ecxfsJos
-花蓮六十石山即時影像,
-https://www.youtube.com/live/DliL9uMtPrI
-東海岸即時影像-綠島帆船鼻,
-https://www.youtube.com/live/pLdBc8PvZko
-東海岸即時影像-三仙台,
-https://www.youtube.com/live/dQ7Sd6PGLdA
-台東金崙大橋即時影像,
-https://www.youtube.com/live/9QqBz3kNHis
-高雄旗津海水浴場即時影像,
-https://www.youtube.com/live/ka7FV0sCvxQ
-東海岸即時影像-金樽遊憩區,
-https://www.youtube.com/live/ZdqHgQwvZOw
-東海岸即時影像-長虹橋,
-https://www.youtube.com/live/JnD8Rk3o0BM
-東海岸即時影像-花蓮豐濱鄉大石鼻山,
-https://www.youtube.com/live/JkoXcXI04Qk
-
-
-
 
 
 
