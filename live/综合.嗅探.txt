@@ -2,30 +2,30 @@
 parse=1
 Referer=https://www.yangshipin.cn/
 ua=okhttp/4.13.0
-CCTV1综合,https://www.yangshipin.cn/tv/home?pid=600001859
-CCTV2财经,https://www.yangshipin.cn/tv/home?pid=600001800
-CCTV3綜藝,http://tv.haoqu99.com/1/cctv3.html
-CCTV4中文国际,https://www.yangshipin.cn/tv/home?pid=600001814
-CCTV5+体育赛事,https://www.yangshipin.cn/tv/home?pid=600001817
-CCTV5体育,https://www.yangshipin.cn/tv/home?pid=600001818
-CCTV6電影,http://tv.haoqu99.com/1/cctv6.html
-CCTV7国防军事,https://www.yangshipin.cn/tv/home?pid=600004092
-CCTV8電視劇,http://tv.haoqu99.com/1/353.html
-CCTV9纪录,https://www.yangshipin.cn/tv/home?pid=600004078
-CCTV10科教,https://www.yangshipin.cn/tv/home?pid=600001805
-CCTV11戏曲,https://www.yangshipin.cn/tv/home?pid=600001806
-CCTV12社会与法,https://www.yangshipin.cn/tv/home?pid=600001807
-CCTV13新闻,https://www.yangshipin.cn/tv/home?pid=600001811
- CCTV14少儿,https://www.yangshipin.cn/tv/home?pid=600001809
-CCTV15音乐,https://www.yangshipin.cn/tv/home?pid=600001815
-CCTV16奥林匹克,https://www.yangshipin.cn/tv/home?pid=600098637
-CCTV17农业农村,https://www.yangshipin.cn/tv/home?pid=600001810
-CGTN,https://www.yangshipin.cn/tv/home?pid=600014550
-CGTN法语频道,https://www.yangshipin.cn/tv/home?pid=600084704
-CGTN俄语频道,https://www.yangshipin.cn/tv/home?pid=600084758
-CGTN阿拉伯语频道,https://www.yangshipin.cn/tv/home?pid=600084782
-CGTN西班牙语频道,https://www.yangshipin.cn/tv/home?pid=600084744
-CGTN外语记录频道,https://www.yangshipin.cn/tv/home?pid=600084781
+CCTV-1 综合,https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV-2 财经,https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV-3 综艺,http://tv.haoqu99.com/1/cctv3.html
+CCTV-4 中文国际,https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV-5+ 体育赛事,https://www.yangshipin.cn/tv/home?pid=600001817
+CCTV-5 体育,https://www.yangshipin.cn/tv/home?pid=600001818
+CCTV-6 电影,http://tv.haoqu99.com/1/cctv6.html
+CCTV-7 国防军事,https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV-8 电视剧,http://tv.haoqu99.com/1/353.html
+CCTV-9 纪录,https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV-10 科教,https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV-11 戏曲,https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV-12 社会与法,https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
+ CCTV-14 少儿,https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV-15 音乐,https://www.yangshipin.cn/tv/home?pid=600001815
+CCTV-16 奥林匹克,https://www.yangshipin.cn/tv/home?pid=600098637
+CCTV-17 农业农村,https://www.yangshipin.cn/tv/home?pid=600001810
+CGTN英语,https://www.yangshipin.cn/tv/home?pid=600014550
+CGTN法语,https://www.yangshipin.cn/tv/home?pid=600084704
+CGTN俄语,https://www.yangshipin.cn/tv/home?pid=600084758
+CGTN阿语,https://www.yangshipin.cn/tv/home?pid=600084782
+CGTN西语,https://www.yangshipin.cn/tv/home?pid=600084744
+CGTN记录,https://www.yangshipin.cn/tv/home?pid=600084781
 
 央视频地方,#genre#
 parse=1
@@ -80,7 +80,6 @@ GRTN教育频道,https://www.gdtv.cn/tvChannelDetail/104
 
 欧飞(翻),#genre#
 parse=1
-player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 8台视,https://ytb.zapi.us.kg/live?url=https://www.ofiii.com/channel/watch/4gtv-4gtv066
 10中视,https://www.ofiii.com/channel/watch/4gtv-4gtv040
@@ -761,7 +760,6 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 yeslivetv(翻),#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-	
 民視第一台,https://yeslivetv.com/channels/ftvone/
 民視台灣台,https://yeslivetv.com/channels/ftvhd/
 民視HD,https://yeslivetv.com/channels/ftv-hd/
