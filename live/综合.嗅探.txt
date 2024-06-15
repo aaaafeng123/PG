@@ -1,13 +1,13 @@
 央视频CCTV,#genre#
 parse=1
 Referer=https://www.yangshipin.cn/
-ua=okhttp/4.13.0
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 CCTV-1 综合,https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV-2 财经,https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV-3 综艺,http://tv.haoqu99.com/1/cctv3.html
 CCTV-4 中文国际,https://www.yangshipin.cn/tv/home?pid=600001814
-CCTV-5+ 体育赛事,https://www.yangshipin.cn/tv/home?pid=600001817
 CCTV-5 体育,https://www.yangshipin.cn/tv/home?pid=600001818
+CCTV-5+ 体育赛事,https://www.yangshipin.cn/tv/home?pid=600001817
 CCTV-6 电影,http://tv.haoqu99.com/1/cctv6.html
 CCTV-7 国防军事,https://www.yangshipin.cn/tv/home?pid=600004092
 CCTV-8 电视剧,http://tv.haoqu99.com/1/353.html
@@ -16,7 +16,7 @@ CCTV-10 科教,https://www.yangshipin.cn/tv/home?pid=600001805
 CCTV-11 戏曲,https://www.yangshipin.cn/tv/home?pid=600001806
 CCTV-12 社会与法,https://www.yangshipin.cn/tv/home?pid=600001807
 CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
- CCTV-14 少儿,https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV-14 少儿,https://www.yangshipin.cn/tv/home?pid=600001809
 CCTV-15 音乐,https://www.yangshipin.cn/tv/home?pid=600001815
 CCTV-16 奥林匹克,https://www.yangshipin.cn/tv/home?pid=600098637
 CCTV-17 农业农村,https://www.yangshipin.cn/tv/home?pid=600001810
