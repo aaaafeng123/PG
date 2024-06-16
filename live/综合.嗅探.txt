@@ -2,24 +2,24 @@
 parse=1
 Referer=https://www.yangshipin.cn/
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-CCTV1 综合,https://www.yangshipin.cn/tv/home?pid=600001859
-CCTV2 财经,https://www.yangshipin.cn/tv/home?pid=600001800
-CCTV3 综艺,http://tv.haoqu99.com/1/cctv3.html
-CCTV4 中文国际,https://www.yangshipin.cn/tv/home?pid=600001814
-CCTV5 体育,https://www.yangshipin.cn/tv/home?pid=600001818
-CCTV5+ 体育赛事,https://www.yangshipin.cn/tv/home?pid=600001817
-CCTV6 电影,http://tv.haoqu99.com/1/cctv6.html
-CCTV7 国防军事,https://www.yangshipin.cn/tv/home?pid=600004092
-CCTV8 电视剧,http://tv.haoqu99.com/1/353.html
-CCTV9 纪录,https://www.yangshipin.cn/tv/home?pid=600004078
-CCTV10 科教,https://www.yangshipin.cn/tv/home?pid=600001805
-CCTV11 戏曲,https://www.yangshipin.cn/tv/home?pid=600001806
-CCTV12 社会与法,https://www.yangshipin.cn/tv/home?pid=600001807
-CCTV13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
-CCTV14 少儿,https://www.yangshipin.cn/tv/home?pid=600001809
-CCTV15 音乐,https://www.yangshipin.cn/tv/home?pid=600001815
-CCTV16 奥林匹克,https://www.yangshipin.cn/tv/home?pid=600098637
-CCTV17 农业农村,https://www.yangshipin.cn/tv/home?pid=600001810
+CCTV1,https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV2,https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV3,http://tv.haoqu99.com/1/cctv3.html
+CCTV4,https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV5,https://www.yangshipin.cn/tv/home?pid=600001818
+CCTV5+,https://www.yangshipin.cn/tv/home?pid=600001817
+CCTV6,http://tv.haoqu99.com/1/cctv6.html
+CCTV7,https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV8,http://tv.haoqu99.com/1/353.html
+CCTV9,https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV10,https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV11,https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV12,https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV13,https://www.yangshipin.cn/tv/home?pid=600001811
+CCTV14,https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV15,https://www.yangshipin.cn/tv/home?pid=600001815
+CCTV16,https://www.yangshipin.cn/tv/home?pid=600098637
+CCTV17,https://www.yangshipin.cn/tv/home?pid=600001810
 CGTN,https://www.yangshipin.cn/tv/home?pid=600014550
 CGTN法语,https://www.yangshipin.cn/tv/home?pid=600084704
 CGTN俄语,https://www.yangshipin.cn/tv/home?pid=600084758
