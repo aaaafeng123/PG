@@ -7,7 +7,7 @@ CCTV2,https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3,http://tv.haoqu99.com/1/cctv3.html
 CCTV4,https://www.yangshipin.cn/tv/home?pid=600001814
 CCTV5,https://www.yangshipin.cn/tv/home?pid=600001818
-CCTV5-plus,https://www.yangshipin.cn/tv/home?pid=600001817
+CCTV5+,https://www.yangshipin.cn/tv/home?pid=600001817
 CCTV6,http://tv.haoqu99.com/1/cctv6.html
 CCTV7,https://www.yangshipin.cn/tv/home?pid=600004092
 CCTV8,http://tv.haoqu99.com/1/353.html
@@ -21,11 +21,11 @@ CCTV15,https://www.yangshipin.cn/tv/home?pid=600001815
 CCTV16,https://www.yangshipin.cn/tv/home?pid=600098637
 CCTV17,https://www.yangshipin.cn/tv/home?pid=600001810
 CGTN,https://www.yangshipin.cn/tv/home?pid=600014550
-CGTN-法语,https://www.yangshipin.cn/tv/home?pid=600084704
-CGTN-俄语,https://www.yangshipin.cn/tv/home?pid=600084758
-CGTN-阿拉伯语,https://www.yangshipin.cn/tv/home?pid=600084782
-CGTN-西班牙语,https://www.yangshipin.cn/tv/home?pid=600084744
-CGTN-纪录,https://www.yangshipin.cn/tv/home?pid=600084781
+CGTN法语,https://www.yangshipin.cn/tv/home?pid=600084704
+CGTN俄语,https://www.yangshipin.cn/tv/home?pid=600084758
+CGTN阿拉伯语,https://www.yangshipin.cn/tv/home?pid=600084782
+CGTN西班牙语,https://www.yangshipin.cn/tv/home?pid=600084744
+CGTN纪录,https://www.yangshipin.cn/tv/home?pid=600084781
 
 央视频地方,#genre#
 parse=1
