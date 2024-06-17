@@ -212,9 +212,9 @@ parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
-民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+民视,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
-中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+中视,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視經典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
 華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
 三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
