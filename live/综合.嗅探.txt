@@ -44,7 +44,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481
 四川卫视,https://www.yangshipin.cn/tv/home?pid=600002516
 河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525
-福建东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
+东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
 贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490guizhouweishi.html
 江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503
 辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505
@@ -210,17 +210,17 @@ WTO姐妹会,https://www.ofiii.com/channel/watch/ofiii129
 4GTV頻道(翻),#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
-民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
+民视第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+民视台湾台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 民视,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
 中视,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
-中視經典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
-華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
-三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
-客家電視台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
-八大綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
-中視菁采台,https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
+中视经典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+华视,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+三立综合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
+客家电视台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
+八大综艺台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
+中视菁采台,https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
 TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
 愛爾達娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
 靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
