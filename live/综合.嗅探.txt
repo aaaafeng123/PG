@@ -236,18 +236,18 @@ LiveABC互动英语频道,https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=188
 ELTV生活英语台,https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=106
 Nick Jr. 儿童频道,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
 尼克儿童频道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
-DreamWorks 梦工厂动画,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
+DREAMWORKS夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
 靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
 靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
-i-Fun动漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
+I-FUN動漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 龙华卡通台,https://www.4gtv.tv/channel/litv-longturn01?set=1&ch=295
 MOMO亲子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 东森购物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
 镜新闻,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 东森新闻台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 华视新闻,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
-民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
-三立新闻台,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+民视新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+三立新聞INEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
 TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 东森财经新闻台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 中视新闻,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
@@ -262,7 +262,7 @@ TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 民视综艺台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
 猪哥亮歌厅秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 靖天育乐台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
-KLT-靖天国际台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
+KLT靖天国际台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
 Nice TV 靖天欢乐台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
 靖天资讯台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
 TVBS欢乐台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
@@ -273,7 +273,7 @@ TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 MTV Live HD 音乐频道,https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=213
 Mezzo Live HD,https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
 CLASSICA 古典乐,https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
-东森购物三台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
+东森购物3台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
 博斯高球台,https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
 博斯运动一台,https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 博斯无限台,https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
