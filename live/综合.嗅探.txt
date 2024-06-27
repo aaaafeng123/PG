@@ -78,6 +78,215 @@ GRTN文化频道,https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,https://www.gdtv.cn/tvChannelDetail/104
 
+台湾频道,#genre#
+台視,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv066
+民視,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv155
+中視,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv040
+華視,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv041
+公視戲劇,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv042
+中視菁采,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv064
+中視新聞,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv074
+台視新聞,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv051
+台視財經,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv056
+華視新聞,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv052
+民視新聞,http://wanjiatv.net/hktv/litv.php?id=litv-ftv13
+民視台灣,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv001
+民視第一,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv003
+民視綜藝,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv004
+民視旅遊,http://wanjiatv.net/hktv/litv.php?id=litv-ftv07
+民視影劇,http://wanjiatv.net/hktv/litv.php?id=litv-ftv09
+采昌影劇,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv049
+中視經典,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv080
+中天亞洲,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv109
+中天新聞,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv009
+非凡新聞,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv010
+東森新聞,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv152
+寰宇新聞,http://wanjiatv.net/hktv/litv.php?id=litv-longturn14
+寰宇新聞台灣,http://wanjiatv.net/hktv/litv.php?id=litv-longturn15
+
+TVBS,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv073
+TVBS新聞,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv072
+TVBS精采,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv067
+TVBS歡樂,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv068
+八大精彩,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv034
+八大綜藝,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv039
+靖天綜合,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv046
+靖天卡通,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv044
+靖天日本,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv047
+靖天歡樂,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv054
+靖天映畫,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv055
+靖天戲劇,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv058
+靖天電影,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv061
+靖天育樂,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv062
+靖天國際,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv063
+靖天資訊,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv065
+靖洋卡通,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv057
+靖洋戲劇,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv045
+龍華卡通,http://wanjiatv.net/hktv/litv.php?id=litv-longturn01
+龍華電影,http://wanjiatv.net/hktv/litv.php?id=litv-longturn03
+龍華日韓,http://wanjiatv.net/hktv/litv.php?id=litv-longturn11
+龍華偶像,http://wanjiatv.net/hktv/litv.php?id=litv-longturn12
+龍華經典,http://wanjiatv.net/hktv/litv.php?id=litv-longturn21
+龍華戲劇,http://wanjiatv.net/hktv/litv.php?id=litv-longturn18
+i-Fun動漫,http://wanjiatv.net/hktv/litv.php?id=litv-ftv15
+客家電視,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv043
+愛爾達娛樂,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv070
+亞洲旅遊台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn17
+豬哥亮歌廳秀,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv006
+CATCHPLAY電影,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv076
+影迷數位電影,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv011
+視納華仁紀實,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv013
+好消息,http://wanjiatv.net/hktv/litv.php?id=litv-ftv16
+好消息2台,http://wanjiatv.net/hktv/litv.php?id=litv-ftv17
+國會頻道1台,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv084
+國會頻道2台,http://wanjiatv.net/hktv/litv.php?id=4gtv-4gtv085
+VOA美國之音,http://wanjiatv.net/hktv/litv.php?id=litv-ftv03
+半島國際新聞,http://wanjiatv.net/hktv/litv.php?id=litv-ftv10
+博斯魅力台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn04
+博斯高球台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn05
+博斯高球二台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn06
+博斯運動一台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn07
+博斯運動二台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn08
+博斯網球台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn09
+博斯無限台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn10
+博斯無限二台,http://wanjiatv.net/hktv/litv.php?id=litv-longturn13
+
+4GTV頻道(翻),#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+民视第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+民视台湾台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
+民视,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
+中视,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+中视经典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+华视,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+三立综合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
+客家电视台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
+八大综艺台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
+中视菁采台,https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
+TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
+爱尔达娱乐台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
+靖天综合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
+靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+新唐人亚太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=223
+ARIRANG阿里郎频道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
+Global Trekker,https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
+原住民族电视台,https://www.4gtv.tv/channel/4gtv-live014?set=1&ch=273
+Smart知识台,https://www.4gtv.tv/channel/litv-longturn19?set=1&ch=297
+东森购物四台,https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=286
+LiveABC互动英语频道,https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=188
+达文西,https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
+ELTV生活英语台,https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=106
+Nick Jr. 儿童频道,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
+尼克儿童频道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
+DREAMWORKS夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
+靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
+靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
+I-FUN動漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
+龙华卡通台,https://www.4gtv.tv/channel/litv-longturn01?set=1&ch=295
+MOMO亲子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+东森购物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
+镜新闻,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+东森新闻台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+华视新闻,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
+民视新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+三立新聞INEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+东森财经新闻台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
+中视新闻,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
+中天新闻台,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
+Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
+寰宇新闻台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
+寰宇新闻台湾台,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
+SBN全球财经台,https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
+寰宇财经台,https://www.4gtv.tv/channel/litv-longturn23?set=1&ch=281
+TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
+东森购物二台,https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
+民视综艺台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
+猪哥亮歌厅秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
+靖天育乐台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
+KLT靖天国际台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
+Nice TV 靖天欢乐台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
+靖天资讯台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
+TVBS欢乐台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
+ROCK Entertainment,https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
+Lifetime 娱乐频道,https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=217
+电影原声台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218
+TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
+MTV Live HD 音乐频道,https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=213
+Mezzo Live HD,https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
+CLASSICA 古典乐,https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
+东森购物3台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
+博斯高球台,https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
+博斯运动一台,https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
+博斯无限台,https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
+博斯网球台,https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=52
+博斯运动二台,https://www.4gtv.tv/channel/litv-longturn08?set=1&ch=299
+博斯魅力网,https://www.4gtv.tv/channel/litv-longturn04?set=1&ch=300
+TRACE Sport Stars,https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
+智林体育台,https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58
+時尚运动X,https://www.4gtv.tv/channel/4gtv-4gtv014?set=1&ch=69
+车迷TV,https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=160
+GINX Esports TV,https://www.4gtv.tv/channel/4gtv-4gtv053?set=1&ch=179
+TechStorm,https://www.4gtv.tv/channel/4gtv-live109?set=1&ch=181
+Pet Club TV,https://www.4gtv.tv/channel/4gtv-live110?set=1&ch=182
+民视旅游台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
+滾动力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
+亚洲旅游台,https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
+fun探索娱乐台,https://www.4gtv.tv/channel/4gtv-live011?set=1&ch=274
+幸福空间居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
+Love Nature,https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
+History 历史频道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
+Globetrotter 環游旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
+爱尔达生活旅游台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
+LUXE TV Channel,https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=175
+TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
+龙华偶像台,https://www.4gtv.tv/channel/litv-longturn12?set=1&ch=296
+公视戏剧https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
+民视影剧台,https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=24
+龙华戏剧台,https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=23
+HITS频道,https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
+龙华日韩台,https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
+八大精彩台,https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=172
+霹雳布袋戏,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
+靖天戏剧台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
+靖洋戏剧台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
+CI 罪案侦查频道,https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=215
+视纳华仁纪实频道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38
+影迷数位纪实台,https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=212
+金光布袋戏,https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236
+ROCK Action,https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
+采昌影剧台,https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
+靖天映画,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42
+靖天电影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82
+龙华电影台,https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
+影迷数位电影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
+amc电影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+CinemaWorld,https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
+My Cinema Europe HD 我的欧洲电影,https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176
+好消息2台,https://www.4gtv.tv/channel/litv-ftv17?set=1&ch=8
+好消息,https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=9
+大爱二台,https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
+人间卫视,https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=210
+半岛国际新闻台,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=85
+VOA美国之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
+CNBC Asia 财经台,https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=235
+DW德国之声,https://www.4gtv.tv/channel/4gtv-live071?set=1&ch=226
+国会频道1,https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
+国会频道2,https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
+TVBS综艺台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
+TVBS台剧台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
+经典电影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
+经典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202
+儿童卡通台,https://www.4gtv.tv/channel/4gtv-live009?set=1&ch=269
+精选动漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
+戏剧免费看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
+戏剧免费看 2台,https://www.4gtv.tv/channel/4gtv-live006?set=1&ch=244
+电影免费看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
+超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
+花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
+
 欧飞(翻),#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -206,142 +415,6 @@ WTO姐妹会,https://www.ofiii.com/channel/watch/ofiii129
 (谈话)新闻大白话,https://www.ofiii.com/channel/watch/ofiii202
 (谈话)文茜的世界周报,https://www.ofiii.com/channel/watch/ofiii203
 (谈话)寰宇全视界,https://www.ofiii.com/channel/watch/ofiii204
-
-4GTV頻道(翻),#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-民视第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
-民视台湾台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
-民视,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
-大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
-中视,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
-中视经典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
-华视,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
-三立综合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
-客家电视台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
-八大综艺台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
-中视菁采台,https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
-TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
-爱尔达娱乐台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
-靖天综合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
-靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
-新唐人亚太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=223
-ARIRANG阿里郎频道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
-Global Trekker,https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
-原住民族电视台,https://www.4gtv.tv/channel/4gtv-live014?set=1&ch=273
-Smart知识台,https://www.4gtv.tv/channel/litv-longturn19?set=1&ch=297
-东森购物四台,https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=286
-LiveABC互动英语频道,https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=188
-达文西频道,https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
-ELTV生活英语台,https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=106
-Nick Jr. 儿童频道,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
-尼克儿童频道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
-DREAMWORKS夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
-靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
-靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
-I-FUN動漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
-龙华卡通台,https://www.4gtv.tv/channel/litv-longturn01?set=1&ch=295
-MOMO亲子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
-东森购物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
-镜新闻,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
-东森新闻台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
-华视新闻,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
-民视新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
-三立新聞INEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
-TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
-东森财经新闻台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
-中视新闻,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
-中天新闻台,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
-Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
-寰宇新闻台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
-寰宇新闻台湾台,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
-SBN全球财经台,https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
-寰宇财经台,https://www.4gtv.tv/channel/litv-longturn23?set=1&ch=281
-TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
-东森购物二台,https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
-民视综艺台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
-猪哥亮歌厅秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
-靖天育乐台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
-KLT靖天国际台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
-Nice TV 靖天欢乐台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
-靖天资讯台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
-TVBS欢乐台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
-ROCK Entertainment,https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
-Lifetime 娱乐频道,https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=217
-电影原声台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218
-TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
-MTV Live HD 音乐频道,https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=213
-Mezzo Live HD,https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
-CLASSICA 古典乐,https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
-东森购物3台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
-博斯高球台,https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
-博斯运动一台,https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
-博斯无限台,https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
-博斯网球台,https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=52
-博斯运动二台,https://www.4gtv.tv/channel/litv-longturn08?set=1&ch=299
-博斯魅力网,https://www.4gtv.tv/channel/litv-longturn04?set=1&ch=300
-TRACE Sport Stars,https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-智林体育台,https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58
-時尚运动X,https://www.4gtv.tv/channel/4gtv-4gtv014?set=1&ch=69
-车迷TV,https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=160
-GINX Esports TV,https://www.4gtv.tv/channel/4gtv-4gtv053?set=1&ch=179
-TechStorm,https://www.4gtv.tv/channel/4gtv-live109?set=1&ch=181
-Pet Club TV,https://www.4gtv.tv/channel/4gtv-live110?set=1&ch=182
-民视旅游台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
-滾动力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
-亚洲旅游台,https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
-fun探索娱乐台,https://www.4gtv.tv/channel/4gtv-live011?set=1&ch=274
-幸福空间居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
-Love Nature,https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
-History 历史频道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
-Globetrotter 環游旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
-爱尔达生活旅游台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
-LUXE TV Channel,https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=175
-TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
-龙华偶像台,https://www.4gtv.tv/channel/litv-longturn12?set=1&ch=296
-公视戏剧https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
-民视影剧台,https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=24
-龙华戏剧台,https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=23
-HITS频道,https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
-龙华日韩台,https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
-八大精彩台,https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=172
-霹雳布袋戏,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
-靖天戏剧台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
-靖洋戏剧台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
-CI 罪案侦查频道,https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=215
-视纳华仁纪实频道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38
-影迷数位纪实台,https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=212
-金光布袋戏,https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236
-ROCK Action,https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
-采昌影剧台,https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
-靖天映画,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42
-靖天电影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82
-龙华电影台,https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
-影迷数位电影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
-amc电影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
-CinemaWorld,https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-My Cinema Europe HD 我的欧洲电影,https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176
-好消息2台,https://www.4gtv.tv/channel/litv-ftv17?set=1&ch=8
-好消息,https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=9
-大爱二台,https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
-人间卫视,https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=210
-半岛国际新闻台,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=85
-VOA美国之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
-CNBC Asia 财经台,https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=235
-DW德国之声,https://www.4gtv.tv/channel/4gtv-live071?set=1&ch=226
-国会频道1,https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
-国会频道2,https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
-TVBS综艺台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
-TVBS台剧台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
-经典电影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
-经典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202
-儿童卡通台,https://www.4gtv.tv/channel/4gtv-live009?set=1&ch=269
-精选动漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
-戏剧免费看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
-戏剧免费看 2台,https://www.4gtv.tv/channel/4gtv-live006?set=1&ch=244
-电影免费看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
-超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
-花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
 
 litv(翻),#genre#
 parse=1
